@@ -7,10 +7,16 @@ Computer Science Engineering student with hands-on experience in **Java, JavaScr
 Passionate about building practical software solutions, developing responsive web applications, and continuously improving problem-solving and software engineering skills.
 
 <p align="left">
+  <a href="https://prakash-chaurasia-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+🌐 **Portfolio:**
+**https://prakash-chaurasia-portfolio.netlify.app**
 
 ---
 
@@ -24,6 +30,16 @@ Passionate about building practical software solutions, developing responsive we
 * 🔐 Interested in **Authentication, REST APIs & Database Integration**
 * 📍 **Lucknow, Uttar Pradesh, India**
 * 🎯 Career focus: **Java Developer | Software Developer | Full Stack Developer | Backend Developer | Web Developer**
+
+### 🌐 My Portfolio
+
+Explore my complete development profile, projects, technical skills, certifications and software development work:
+
+<p align="center">
+  <a href="https://prakash-chaurasia-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20MY%20PORTFOLIO-Visit%20Website-6C63FF?style=for-the-badge" alt="Open Portfolio"/>
+  </a>
+</p>
 
 ---
 
@@ -64,7 +80,6 @@ Passionate about building practical software solutions, developing responsive we
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=python&logoColor=white" alt="Uvicorn"/>
 </p>
 
 ## 🗄️ Database Technologies
@@ -90,6 +105,7 @@ Passionate about building practical software solutions, developing responsive we
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
 ---
@@ -100,7 +116,7 @@ Passionate about building practical software solutions, developing responsive we
 
 ### Full Stack Web Application
 
-A full-stack web application developed for construction-worker welfare services with user registration, authentication, profile management, and backend data integration.
+A full-stack web application developed for construction-worker welfare services with user registration, authentication, profile management, document handling and backend data integration.
 
 **Key Features**
 
@@ -190,6 +206,37 @@ Completed a **7-Day AI Class**.
 
 ---
 
+# 🌐 Portfolio & Professional Profiles
+
+<p align="center">
+
+<a href="https://prakash-chaurasia-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/PrakashChaurasia959">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+### 🔗 Direct Links
+
+**🌐 Portfolio:**
+https://prakash-chaurasia-portfolio.netlify.app
+
+**💼 LinkedIn:**
+https://linkedin.com/in/prakash-chaurasia-a629132a1/
+
+**🐙 GitHub:**
+https://github.com/PrakashChaurasia959
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -211,10 +258,10 @@ Completed a **7-Day AI Class**.
 
 <p align="center">
 
-**Java Developer**  • 
-**Software Developer**  • 
-**Full Stack Developer**  • 
-**Backend Developer**  • 
+**Java Developer** •
+**Software Developer** •
+**Full Stack Developer** •
+**Backend Developer** •
 **Web Developer**
 
 </p>
@@ -224,9 +271,19 @@ Completed a **7-Day AI Class**.
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+I'm open to opportunities, collaborations, internships and software development roles.
+
+<br/>
+
+<a href="https://prakash-chaurasia-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" alt="Visit Portfolio"/>
+</a>
+
+<a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </p>
 
 ---
@@ -236,5 +293,9 @@ Completed a **7-Day AI Class**.
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ <b>Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  🌐 <b>Portfolio:</b> https://prakash-chaurasia-portfolio.netlify.app
 </p>
