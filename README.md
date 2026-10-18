@@ -13,27 +13,30 @@ Passionate about building practical software solutions, developing responsive we
   <a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/PrakashChaurasia959">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 🌐 **Portfolio:**
-**https://prakash-chaurasia-portfolio.netlify.app**
+https://prakash-chaurasia-portfolio.netlify.app
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **B.Tech in Computer Science & Engineering**
-* 💻 Focused on **Java, Backend & Full Stack Development**
-* 🌱 Currently learning **Advanced Java & Spring Boot**
-* 🧠 Strong foundation in **OOP, Data Structures, Algorithms & Problem Solving**
-* 🚀 Experienced in building and deploying real-world applications
-* 🔐 Interested in **Authentication, REST APIs & Database Integration**
-* 📍 **Lucknow, Uttar Pradesh, India**
-* 🎯 Career focus: **Java Developer | Software Developer | Full Stack Developer | Backend Developer | Web Developer**
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Focused on Java, Backend & Full Stack Development
+* 🌱 Currently learning Advanced Java & Spring Boot
+* 🧠 Strong foundation in OOP, Data Structures, Algorithms & Problem Solving
+* 🚀 Experienced in building and deploying web applications
+* 🔐 Interested in Authentication, REST APIs & Database Integration
+* 📍 Lucknow, Uttar Pradesh, India
+* 🎯 Career Focus: Java Developer | Software Developer | Full Stack Developer | Backend Developer | Web Developer
 
 ### 🌐 My Portfolio
 
-Explore my complete development profile, projects, technical skills, certifications and software development work:
+Explore my development profile, projects, technical skills, certifications and software development work.
 
 <p align="center">
   <a href="https://prakash-chaurasia-portfolio.netlify.app">
@@ -68,8 +71,6 @@ Explore my complete development profile, projects, technical skills, certificati
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
@@ -97,7 +98,7 @@ Explore my complete development profile, projects, technical skills, certificati
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ## ☁️ Deployment
@@ -112,11 +113,45 @@ Explore my complete development profile, projects, technical skills, certificati
 
 # 🚀 Featured Projects
 
-## 👷 Shramik-Seva Portal
+## 🛍️ 1. Chromify – E-commerce Website
+
+### Responsive E-commerce Web Application
+
+A responsive e-commerce website developed and deployed to provide customers with an interactive shopping experience and an admin interface for managing website operations.
+
+**Key Features**
+
+* 🛒 Customer-facing website
+* 🔐 Admin login interface
+* 📦 Product management
+* 💬 Customer enquiry and message management
+* 🗄️ Supabase database integration
+* 📱 Responsive user interface
+* 🚀 Live deployment on Netlify
+
+**Tech Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
+
+🔗 **Live Demo:**
+https://chromify-website.netlify.app/
+
+🔗 **GitHub Repository:**
+https://github.com/PrakashChaurasia959/Chromify-Website
+
+---
+
+## 👷 2. Shramik-Seva Portal
 
 ### Full Stack Web Application
 
-A full-stack web application developed for construction-worker welfare services with user registration, authentication, profile management, document handling and backend data integration.
+A full-stack web application developed for worker welfare services, featuring user access, profile management, document handling and backend data integration.
 
 **Key Features**
 
@@ -124,38 +159,40 @@ A full-stack web application developed for construction-worker welfare services 
 * Login and profile management
 * Responsive and user-friendly interface
 * Supabase database integration
-* Authentication and backend services
-* Frontend and backend integration
-* Live deployment and functionality validation
+* Backend and frontend integration
+* Live deployment
 
 **Tech Stack**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 🔗 **Live Demo:**
-https://shramik-seva-portal-fqnu.vercel.app
+https://shramik-seva-portal-fqnu.vercel.app/
+
+🔗 **GitHub Repository:**
+https://github.com/PrakashChaurasia959/shramik-seva-portal
 
 ---
 
-## 🚗 Used Car Price Prediction
+## 🚗 3. Used Car Price Prediction
 
-### Full Stack Machine Learning Application
+### Machine Learning Web Application
 
-A full-stack machine learning web application that predicts used car prices from vehicle attributes using a trained machine learning model.
+A web application that predicts used car prices based on vehicle attributes using a trained machine learning model.
 
 **Key Features**
 
 * Vehicle-based price prediction
 * Machine learning model integration
 * FastAPI-based REST APIs
-* Vehicle detail management
+* Vehicle details input
 * Prediction workflow
 * Responsive web interface
 * Backend API integration
@@ -164,15 +201,18 @@ A full-stack machine learning web application that predicts used car prices from
 **Tech Stack**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 🔗 **Live Demo:**
-https://used-car-price-prediction-project-4.onrender.com
+https://used-car-price-prediction-project-4.onrender.com/
+
+🔗 **GitHub Repository:**
+https://github.com/PrakashChaurasia959/Used-Car-Price-Prediction-Project
 
 ---
 
@@ -182,7 +222,7 @@ https://used-car-price-prediction-project-4.onrender.com
 
 **Cyvanta Tech Quantum (OPC) Pvt. Ltd., Lucknow**
 
-Core Java, Advanced Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, Git, GitHub and Full Stack Application Development.
+Training in Core Java, Advanced Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, Git, GitHub and Full Stack Application Development.
 
 **Certificate of Completion — September 2026**
 
@@ -190,58 +230,52 @@ Core Java, Advanced Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, Git, Gi
 
 **UPTEC Computer Consultants Ltd.**
 
-**September 2025 – November 2025**
+September 2025 – November 2025
 
 ### 🤖 AI Class
 
 **Angels Foundation**
 
-Completed a **7-Day AI Class**.
+Completed a 7-Day AI Class.
 
 ### 🟨 JavaScript Assessment
 
 **Cyvanta Tech Quantum (OPC) Pvt. Ltd.**
 
-**Certificate of Excellence — Score: 100%**
+Certificate of Excellence — Score: 100%
 
 ---
 
 # 🌐 Portfolio & Professional Profiles
 
 <p align="center">
-
-<a href="https://prakash-chaurasia-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/PrakashChaurasia959">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+  <a href="https://prakash-chaurasia-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PrakashChaurasia959">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ### 🔗 Direct Links
 
-**🌐 Portfolio:**
-https://prakash-chaurasia-portfolio.netlify.app
-
-**💼 LinkedIn:**
-https://linkedin.com/in/prakash-chaurasia-a629132a1/
-
-**🐙 GitHub:**
-https://github.com/PrakashChaurasia959
+* 🌐 **Portfolio:** https://prakash-chaurasia-portfolio.netlify.app
+* 💼 **LinkedIn:** https://linkedin.com/in/prakash-chaurasia-a629132a1/
+* 🐙 **GitHub:** https://github.com/PrakashChaurasia959
+* 🛍️ **Chromify Website:** https://chromify-website.netlify.app/
+* 👷 **Shramik-Seva Portal:** https://shramik-seva-portal-fqnu.vercel.app/
+* 🚗 **Used Car Price Prediction:** https://used-car-price-prediction-project-4.onrender.com/
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakashChaurasia959&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashChaurasia959&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakashChaurasia959&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashChaurasia959&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -249,7 +283,7 @@ https://github.com/PrakashChaurasia959
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrakashChaurasia959&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PrakashChaurasia959&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -257,13 +291,11 @@ https://github.com/PrakashChaurasia959
 # 🎯 Career Focus
 
 <p align="center">
-
-**Java Developer** •
-**Software Developer** •
-**Full Stack Developer** •
-**Backend Developer** •
-**Web Developer**
-
+  <b>Java Developer</b> •
+  <b>Software Developer</b> •
+  <b>Full Stack Developer</b> •
+  <b>Backend Developer</b> •
+  <b>Web Developer</b>
 </p>
 
 ---
@@ -271,19 +303,14 @@ https://github.com/PrakashChaurasia959
 # 🤝 Let's Connect
 
 <p align="center">
-
-I'm open to opportunities, collaborations, internships and software development roles.
-
-<br/>
-
-<a href="https://prakash-chaurasia-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" alt="Visit Portfolio"/>
-</a>
-
-<a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+  I'm open to suitable job opportunities, internships, collaborations and software development roles.
+  <br/><br/>
+  <a href="https://prakash-chaurasia-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" alt="Visit Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/prakash-chaurasia-a629132a1/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -297,5 +324,6 @@ I'm open to opportunities, collaborations, internships and software development 
 </p>
 
 <p align="center">
-  🌐 <b>Portfolio:</b> https://prakash-chaurasia-portfolio.netlify.app
+  🌐 <b>Portfolio:</b>
+  <a href="https://prakash-chaurasia-portfolio.netlify.app">Visit My Website</a>
 </p>
