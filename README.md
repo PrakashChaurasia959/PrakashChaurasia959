@@ -9,7 +9,7 @@ I'm an aspiring software developer passionate about building practical software 
 
 I work with Java, JavaScript, React.js, TypeScript, REST APIs, databases, and full-stack development technologies. I enjoy transforming ideas into functional applications, deploying projects, and continuously improving my software engineering and problem-solving skills.
 
-🌍 **Currently building:** EarthWatch — Global Monitoring Dashboard
+🌍 **Currently Building:** EarthWatch — Global Monitoring Dashboard
 ☕ **Career Focus:** Java Development, Backend Engineering & Full Stack Development
 
 <p align="left">
@@ -26,7 +26,7 @@ I work with Java, JavaScript, React.js, TypeScript, REST APIs, databases, and fu
 
 ---
 
-## 🌍 Featured Project — EarthWatch Global Monitoring
+## 🌍 Featured Project — EarthWatch
 
 ### 🌎 EarthWatch — Global Environmental Monitoring Dashboard
 
@@ -247,28 +247,6 @@ Shramik-Seva is designed around worker welfare services, registration, authentic
 
 ---
 
-### 🚘 5. Used Car Price Prediction
-
-**A machine learning web application for estimating used car prices.**
-
-This project combines a machine learning model with a web interface to estimate car prices from user-provided vehicle details.
-
-**Key Features**
-
-* 🚘 Used car price estimation.
-* 🤖 Machine learning model integration.
-* 📝 Vehicle information input.
-* 📊 Prediction results through a web interface.
-* 🌐 Deployed web application.
-
-**Tech Stack:** Python, Machine Learning, FastAPI, and web technologies.
-
-**Live Demo:** https://used-car-price-prediction-project-4.onrender.com/
-
-**Repository:** https://github.com/PrakashChaurasia959/Used-Car-Price-Prediction
-
----
-
 ## 📜 Certifications & Training
 
 ### ☕ Java Full Stack Development — 45-Day Training
@@ -352,7 +330,6 @@ I'm interested in building reliable software, developing scalable web applicatio
 * 🌦️ **WeatherVerse:** https://weather-verse-world-weather.vercel.app/
 * 🛍️ **Chromify:** https://chromify-website.netlify.app/
 * 👷 **Shramik-Seva:** https://shramik-seva-portal-fqnu.vercel.app/
-* 🚘 **Used Car Price Prediction:** https://used-car-price-prediction-project-4.onrender.com/
 
 ---
 
