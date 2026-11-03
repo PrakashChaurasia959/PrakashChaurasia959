@@ -1,15 +1,16 @@
+
 # 👋 Hi, I'm Prakash Chaurasia
 
 ### 💻 Aspiring Software Developer | Java Developer | Full Stack Developer
 
-🎓 B.Tech Computer Science & Engineering
+🎓 B.Tech Computer Science & Engineering  
 📍 Lucknow, Uttar Pradesh, India
 
 I'm an aspiring software developer passionate about building practical software solutions, modern web applications, and user-friendly digital experiences.
 
 I work with Java, JavaScript, React.js, TypeScript, REST APIs, databases, and full-stack development technologies. I enjoy transforming ideas into functional applications, deploying projects, and continuously improving my software engineering and problem-solving skills.
 
-🌍 **Currently Building:** EarthWatch — Global Monitoring Dashboard
+🌍 **Currently Building:** EarthWatch — Global Monitoring Dashboard  
 ☕ **Career Focus:** Java Development, Backend Engineering & Full Stack Development
 
 <p align="left">
@@ -26,52 +27,6 @@ I work with Java, JavaScript, React.js, TypeScript, REST APIs, databases, and fu
 
 ---
 
-## 🌍 Featured Project — EarthWatch
-
-### 🌎 EarthWatch — Global Environmental Monitoring Dashboard
-
-**Explore our planet through an interactive global monitoring experience.**
-
-EarthWatch is a web application designed to present global environmental and Earth observation information through an interactive, map-focused interface.
-
-The project brings together web technologies, geospatial visualization, environmental information, and modern dashboard design to help users explore our planet.
-
-🚀 **Live Website:**
-https://earth-watch-global-monitoring-g0eh1ag97.vercel.app/
-
-💻 **GitHub Repository:**
-https://github.com/PrakashChaurasia959/EarthWatch-Global-Monitoring
-
-### ✨ Key Highlights
-
-* 🌍 **Global Exploration:** Explore locations and geographical information through an interactive interface.
-* 🗺️ **Interactive Map:** Navigate the map and explore different regions.
-* 🔎 **Map Navigation:** Zoom in, zoom out, and explore geographical areas.
-* 🌐 **Environmental Awareness:** Discover Earth-related monitoring information presented through a modern dashboard.
-* 📊 **Visual Insights:** Explore environmental information and visual representations available in the application.
-* 💻 **Modern Web Interface:** A responsive experience designed for convenient exploration.
-* 🚀 **Live Deployment:** Access the project online through Vercel.
-* 🛠️ **End-to-End Development:** Practical experience in building, testing, managing, and deploying a web application.
-
-### 🎯 Project Objective
-
-The goal of EarthWatch is to make global environmental information easier to explore through an interactive digital experience.
-
-It demonstrates my interest in geospatial web applications, environmental monitoring, data visualization, and modern software development.
-
-### 🔗 Explore EarthWatch
-
-<p align="left">
-  <a href="https://earth-watch-global-monitoring-g0eh1ag97.vercel.app/">
-    <img src="https://img.shields.io/badge/🌍_EXPLORE_EARTHWATCH-Live%20Website-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore EarthWatch"/>
-  </a>
-  <a href="https://github.com/PrakashChaurasia959/EarthWatch-Global-Monitoring">
-    <img src="https://img.shields.io/badge/GitHub-View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="EarthWatch Source Code"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science & Engineering student pursuing a B.Tech.
@@ -82,6 +37,112 @@ It demonstrates my interest in geospatial web applications, environmental monito
 * 🔐 Exploring authentication, REST APIs, and database integration.
 * 🚀 Building and deploying practical software projects.
 * 🤝 Open to internships, entry-level opportunities, and collaborative projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 1. AgriTech-AI-Platform — Smart Agriculture System
+
+**An AI-powered Smart Agriculture Platform for intelligent and data-driven farming.**
+
+* 🌱 AI-powered Crop Disease Detection.
+* 🌾 Intelligent Crop Recommendations.
+* 📊 Crop Yield Prediction.
+* 🌦️ Real-Time Weather Forecasting.
+* 🤖 Data-Driven Farming Insights.
+* 🗄️ MongoDB Database Integration.
+
+**Tech Stack:** React, TypeScript, FastAPI, Python, MongoDB.
+
+**Live Demo:** https://agri-tech-ai-platform.vercel.app/
+
+**GitHub Repository:** https://github.com/PrakashChaurasia959/AgriTech-AI-Platform
+
+---
+
+### 🌍 2. EarthWatch — Global Environmental Monitoring Dashboard
+
+**Explore our planet through an interactive global monitoring experience.**
+
+EarthWatch is a web application designed to present global environmental and Earth observation information through an interactive, map-focused interface.
+
+* 🌍 Global geographical exploration.
+* 🗺️ Interactive map navigation.
+* 🔎 Zoom in and zoom out functionality.
+* 🌐 Environmental monitoring information.
+* 📊 Visual environmental insights.
+* 💻 Responsive modern dashboard.
+* 🚀 Live deployment using Vercel.
+
+**Tech Stack:** React, TypeScript, Leaflet, USGS, NASA EONET.
+
+**Live Demo:** https://earth-watch-global-monitoring-g0eh1ag97.vercel.app/
+
+**GitHub Repository:** https://github.com/PrakashChaurasia959/EarthWatch-Global-Monitoring
+
+---
+
+### 🌦️ 3. WeatherVerse — World Weather
+
+**A modern weather website for exploring weather around the world.**
+
+WeatherVerse provides a responsive interface for exploring weather information for different locations.
+
+* 🌍 Explore weather information for different cities.
+* 🌦️ View weather details through an interactive interface.
+* 📱 Responsive website experience.
+* 🔌 Weather API integration.
+* 🚀 Live deployment.
+
+**Tech Stack:** TypeScript, React, Vite, Open-Meteo API.
+
+**Live Demo:** https://weather-verse-world-weather.vercel.app/
+
+**GitHub Repository:** https://github.com/PrakashChaurasia959/WeatherVerse-World-Weather
+
+---
+
+### 🛍️ 4. Chromify — E-commerce Website
+
+**A responsive e-commerce web application.**
+
+Chromify is designed to provide an interactive shopping interface with product management and customer enquiry features.
+
+* 🛒 Customer-facing shopping interface.
+* 🔐 Admin login interface.
+* 📦 Product management.
+* 💬 Customer enquiry and message management.
+* 🗄️ Supabase integration.
+* 📱 Responsive user interface.
+* 🚀 Live deployment.
+
+**Tech Stack:** React, JavaScript, Supabase, Vite, Netlify.
+
+**Live Demo:** https://chromify-website.netlify.app/
+
+**GitHub Repository:** https://github.com/PrakashChaurasia959/Chromify-Website
+
+---
+
+### 👷 5. Shramik-Seva Portal
+
+**A worker welfare services web application.**
+
+Shramik-Seva is designed around worker welfare services, registration, authentication, and document management workflows.
+
+* 📝 User registration and authentication.
+* 🔐 Login and profile management.
+* 📄 Document handling.
+* 📱 Responsive interface.
+* 🗄️ Supabase integration.
+* 🚀 Live deployment.
+
+**Tech Stack:** React, JavaScript, Supabase, Vercel.
+
+**Live Demo:** https://shramik-seva-portal-fqnu.vercel.app/
+
+**GitHub Repository:** https://github.com/PrakashChaurasia959/shramik-seva-portal
 
 ---
 
@@ -156,94 +217,6 @@ Explore my projects, technical skills, and software development journey.
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌍 1. EarthWatch — Global Monitoring Dashboard
-
-**Interactive global exploration and environmental monitoring web application.**
-
-* 🌎 Explore geographical regions using an interactive map.
-* 🗺️ Navigate and zoom across locations.
-* 📊 Explore Earth-related information available in the dashboard.
-* 🚀 Deployed using Vercel.
-
-**Tech Stack:** Modern web technologies and map/data visualization tools used in the project.
-
-**Live Demo:** https://earth-watch-global-monitoring-g0eh1ag97.vercel.app/
-
-**Repository:** https://github.com/PrakashChaurasia959/EarthWatch-Global-Monitoring
-
----
-
-### 🌦️ 2. WeatherVerse — World Weather
-
-**A modern weather website for exploring weather around the world.**
-
-WeatherVerse provides a responsive interface for exploring weather information for different locations.
-
-**Key Features**
-
-* 🌍 Explore weather information for different cities.
-* 🌦️ View weather details through an interactive interface.
-* 📱 Responsive website experience.
-* 🔌 Weather API integration.
-* 🚀 Live deployment.
-
-**Tech Stack:** TypeScript, React, Vite, Weather APIs.
-
-**Live Demo:** https://weather-verse-world-weather.vercel.app/
-
-**Repository:** https://github.com/PrakashChaurasia959/WeatherVerse-World-Weather
-
----
-
-### 🛍️ 3. Chromify — E-commerce Website
-
-**A responsive e-commerce web application.**
-
-Chromify is designed to provide an interactive shopping interface with product management and customer enquiry features.
-
-**Key Features**
-
-* 🛒 Customer-facing shopping interface.
-* 🔐 Admin login interface.
-* 📦 Product management.
-* 💬 Customer enquiry and message management.
-* 🗄️ Supabase integration.
-* 📱 Responsive user interface.
-* 🚀 Live deployment.
-
-**Tech Stack:** React, JavaScript, Supabase, Vite, Netlify.
-
-**Live Demo:** https://chromify-website.netlify.app/
-
-**Repository:** https://github.com/PrakashChaurasia959/Chromify-Website
-
----
-
-### 👷 4. Shramik-Seva Portal
-
-**A worker welfare services web application.**
-
-Shramik-Seva is designed around worker welfare services, registration, authentication, and document management workflows.
-
-**Key Features**
-
-* 📝 User registration and authentication.
-* 🔐 Login and profile management.
-* 📄 Document handling.
-* 📱 Responsive interface.
-* 🗄️ Supabase integration.
-* 🚀 Live deployment.
-
-**Tech Stack:** React, JavaScript, Supabase, Vercel.
-
-**Live Demo:** https://shramik-seva-portal-fqnu.vercel.app/
-
-**Repository:** https://github.com/PrakashChaurasia959/shramik-seva-portal
 
 ---
 
@@ -326,6 +299,7 @@ I'm interested in building reliable software, developing scalable web applicatio
 * 🌐 **Portfolio:** https://prakash-chaurasia-portfolio.netlify.app
 * 💼 **LinkedIn:** https://linkedin.com/in/prakash-chaurasia-a629132a1/
 * 🐙 **GitHub:** https://github.com/PrakashChaurasia959
+* 🌾 **AgriTech:** https://agri-tech-ai-platform.vercel.app/
 * 🌍 **EarthWatch:** https://earth-watch-global-monitoring-g0eh1ag97.vercel.app/
 * 🌦️ **WeatherVerse:** https://weather-verse-world-weather.vercel.app/
 * 🛍️ **Chromify:** https://chromify-website.netlify.app/
